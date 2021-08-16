@@ -1,0 +1,6 @@
+.content {
+  background: $color-blue;
+  color: hsla(282, 54%, 32%, .62);
+  margin: auto;
+  position: relative;
+}
